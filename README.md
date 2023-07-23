@@ -23,7 +23,7 @@ Here is a list of projects available in this repository:
    - 
 3. [Project 1: Sentiment Analysis using LSTM](notebooks/project1_sentiment_analysis_lstm.ipynb)
    - Description: This notebook demonstrates sentiment analysis using a Long Short-Term Memory (LSTM) model on a movie review dataset.
-   - Techniques: AraBERT, Tokenization, and more.
+   - Techniques: LSTM, embeddings, and more.
 
 
 

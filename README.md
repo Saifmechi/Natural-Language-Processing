@@ -11,7 +11,7 @@ The main objective of this repository is to share knowledge, insights, and imple
 ## Projects 📑
 
 Here is a list of projects available in this repository:
-https://github.com/Saifmechi/Natural-Language-Processing/blob/main/arabic-bert-sentiment-analysis-of-tunisian-dialect%20(3).ipynb
+
 1. [Project 1: AraBERT: Sentiment Analysis ](/arabic-bert-sentiment-analysis-of-tunisian-dialect%20(3).ipynb)
    - Description: In this notebook,I employ BERT (Bidirectional Encoder Representations from Transformers) to harness the capabilities of ARABERT to understand and classify sentiment in text data written in Tunisian Arabic.
    - Techniques: BERT, Tokenization, Fine-Tuning, Transfer Learning, and more.

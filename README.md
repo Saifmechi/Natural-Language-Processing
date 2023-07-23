@@ -14,7 +14,7 @@ Here is a list of projects available in this repository:
 
 1. [Project 1: Sentiment Analysis using LSTM](notebooks/project1_sentiment_analysis_lstm.ipynb)
    - Description: This notebook demonstrates sentiment analysis using a Long Short-Term Memory (LSTM) model on a movie review dataset.
-   - Techniques: LSTM, Word Embeddings, Tokenization, and more.
+   - Techniques: AraBERT, Tokenization, and more.
 
 2. [Project 2: Named Entity Recognition (NER)](notebooks/project2_named_entity_recognition.ipynb)
    - Description: This notebook tackles the task of Named Entity Recognition (NER) to identify and classify entities in text.

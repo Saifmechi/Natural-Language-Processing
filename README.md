@@ -12,17 +12,20 @@ The main objective of this repository is to share knowledge, insights, and imple
 
 Here is a list of projects available in this repository:
 
-1. [Project 1: Sentiment Analysis using LSTM](notebooks/project1_sentiment_analysis_lstm.ipynb)
-   - Description: This notebook demonstrates sentiment analysis using a Long Short-Term Memory (LSTM) model on a movie review dataset.
-   - Techniques: AraBERT, Tokenization, and more.
+1. [Project 1: AraBERT: Sentiment Analysis ](notebooks/project3_text_classification_bert.ipynb)
+   - Description: In this notebook,I employ BERT (Bidirectional Encoder Representations from Transformers) for Sentiment analysis task.
+   - Techniques: BERT, Tokenization, Fine-Tuning, Transfer Learning, and more.
 
+     
 2. [Project 2: Named Entity Recognition (NER)](notebooks/project2_named_entity_recognition.ipynb)
    - Description: This notebook tackles the task of Named Entity Recognition (NER) to identify and classify entities in text.
    - Techniques: Conditional Random Fields (CRF), Tokenization, POS Tagging, and more.
+   - 
+3. [Project 1: Sentiment Analysis using LSTM](notebooks/project1_sentiment_analysis_lstm.ipynb)
+   - Description: This notebook demonstrates sentiment analysis using a Long Short-Term Memory (LSTM) model on a movie review dataset.
+   - Techniques: AraBERT, Tokenization, and more.
 
-3. [Project 3: Text Classification with BERT](notebooks/project3_text_classification_bert.ipynb)
-   - Description: In this notebook, we employ BERT (Bidirectional Encoder Representations from Transformers) for text classification.
-   - Techniques: BERT, Tokenization, Fine-Tuning, Transfer Learning, and more.
+
 
 ## Usage 🚀
 

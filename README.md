@@ -1,6 +1,7 @@
 # NLP Projects Repository 📚
 
-![NLP Logo](https://example.com/nlp_logo.png)
+
+
 
 ## Introduction 🎉
 
@@ -12,7 +13,8 @@ The main objective of this repository is to share knowledge, insights, and imple
 
 Here is a list of projects available in this repository:
 
-1. [Project 1: AraBERT: Sentiment Analysis ](/arabic-bert-sentiment-analysis-of-tunisian-dialect%20(3).ipynb)
+1. [Project 1: AraBERT: Sentiment Analysis ](/sentiment-analysis-for-tunisian-dialect-arabertt%20(5).ipynb))
+
    - Description: In this notebook,I employ BERT (Bidirectional Encoder Representations from Transformers) to harness the capabilities of ARABERT to understand and classify sentiment in text data written in Tunisian Arabic.
    - you can find the original notebook and data :[kaggle](https://www.kaggle.com/code/seifmechi/credit-default-risk)
    - Techniques: BERT, Tokenization, Fine-Tuning, Transfer Learning, and more.
